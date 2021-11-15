@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "forever start server.js server2.js"
+    "start": "forever start fv.json"
   },
   "keywords": [],
   "author": "",
