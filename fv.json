@@ -1,0 +1,18 @@
+[
+  {
+    // App1
+    "uid": "app1",
+    "append": true,
+    "watch": true,
+    "script": "server.js",
+    "sourceDir": "."
+  },
+  {
+    // App2
+    "uid": "app2",
+    "append": true,
+    "watch": true,
+    "script": "server2.js",
+    "sourceDir": "."
+  }
+]
